@@ -5,17 +5,18 @@ This repository contains two projects completed during my participation in a Mac
 
 ## Project Descriptions
 
-1. **Project Name: Regression Project for Medical Insurance Forecast**
-   - Description: [Brief description of the first project]
-   - Files:
-     - `project_A.ipynb`: Jupyter Notebook containing the code and analysis for Project A.
-     - `data_A.xlsx`: Excel file containing the dataset used in Project A.
+1. **Regression Project for Medical Insurance Forecast**
+   - **Description:** This project focuses on predicting medical insurance costs using regression techniques. The goal was to develop a model that accurately forecasts insurance expenses based on various factors such as age, BMI, smoking habits, etc.
+   - **Files:**
+     - `Medical_Insurance_Forecast.ipynb`: Jupyter Notebook containing the code and analysis for Project A.
+     - `insurance.csv`: Excel file containing the dataset used in Project A.
 
-2. **Project Name: Loan Eligibility Prediction Classification Project**
-   - Description: [Brief description of the second project]
-   - Files:
+2. **Loan Eligibility Prediction Classification Project**
+   - **Description:** In this project, we aimed to predict loan eligibility based on various factors using classification algorithms. The objective was to build a model that determines whether an individual is eligible for a loan or not based on features like income, credit score, loan amount, etc.
+   - **Files:**
      - `project_B.ipynb`: Jupyter Notebook containing the code and analysis for Project B.
      - `data_B.xlsx`: Excel file containing the dataset used in Project B.
+
 
 ## Usage
 
@@ -25,9 +26,13 @@ Feel free to explore the projects and datasets provided in this repository. You 
 
 If you have any feedback, suggestions, or improvements regarding the projects or code, please don't hesitate to open an issue or submit a pull request. Your contributions are highly appreciated!
 
-## Contact
+Please feel free to reach out to me:
 
-If you have any questions or inquiries related to the projects or datasets, feel free to contact me at [your_email@example.com].
+- **Email:** [malikhamna107@gmail.com](mailto:malikhamna107@gmail.com)
+- **Instagram:** [hijtechgal](https://www.instagram.com/hijtechgal/)
+
+I'm always open to discussions, feedback, and collaboration opportunities. Don't hesitate to drop me a message!
+
 
 Happy exploring and learning!
 
