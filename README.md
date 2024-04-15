@@ -14,8 +14,8 @@ This repository contains two projects completed during my participation in a Mac
 2. **Loan Eligibility Prediction Classification Project**
    - **Description:** In this project, we aimed to predict loan eligibility based on various factors using classification algorithms. The objective was to build a model that determines whether an individual is eligible for a loan or not based on features like income, credit score, loan amount, etc.
    - **Files:**
-     - `project_B.ipynb`: Jupyter Notebook containing the code and analysis for Project B.
-     - `data_B.xlsx`: Excel file containing the dataset used in Project B.
+     - `Loan-Eligibility-Prediction.py`: Jupyter Notebook containing the code and analysis for Project B.
+     - `loan_data_set.csv`: Excel file containing the dataset used in Project B.
 
 
 ## Usage
