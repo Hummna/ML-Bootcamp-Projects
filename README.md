@@ -28,8 +28,8 @@ If you have any feedback, suggestions, or improvements regarding the projects or
 
 Please feel free to reach out to me:
 
-- **Email:** [malikhamna107@gmail.com](mailto:malikhamna107@gmail.com)
-- **linkedin:** [hamna Malik](https://www.linkedin.com/in/hamnamalik107/)
+- **Email:** [Gmail.com](mailto:malikhamna107@gmail.com)
+- **linkedin:** [Hamna Malik](https://www.linkedin.com/in/hamnamalik107/)
 - **Instagram:** [hijtechgal](https://www.instagram.com/hijtechgal/)
 
 I'm always open to discussions, feedback, and collaboration opportunities. Don't hesitate to drop me a message!
